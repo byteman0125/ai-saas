@@ -1,4 +1,4 @@
-# AI-SaaS - AI-Powered Software-as-a-Service Application
+# ChatBot Platfrom(AI-SASS)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![License](https://img.shields.io/badge/React.js-v18.2.0-blue.svg)](https://opensource.org/licenses/MIT)
@@ -43,7 +43,7 @@ To run AI-SaaS locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/ayusshrathore/ai-saas.git
+git clone
 cd ai-saas
 ```
 
